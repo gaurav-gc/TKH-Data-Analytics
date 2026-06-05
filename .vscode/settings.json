@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".devcontainer": true,
+    "utils": true,
+    "tools": true,
+    "requirements.txt": true,
+    ".gitignore": true
+  }
+}
